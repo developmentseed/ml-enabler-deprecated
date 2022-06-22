@@ -10,7 +10,7 @@ inst_reqs = [
     "gdal == 2.4.2",
     "shapely == 1.6.4",
     "affine == 2.3.0",
-    "numpy == 1.19.0", 
+    "numpy == 1.22.0", 
     "rasterio == 1.1.5"
 ]
 extra_reqs = {"test": ["pytest", "pytest-cov"]}
